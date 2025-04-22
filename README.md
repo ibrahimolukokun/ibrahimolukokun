@@ -1,6 +1,6 @@
 👋 Hey, I'm Ibrahim Olukokun
 
-A Creative Designer turned Frontend Developer with a passion for building beautiful and user-centric web experiences. 
+A Creative Designer Engineer with a passion for building beautiful and user-centric web experiences. 
 With years of experience in UI/UX and Graphics Design, I'm now diving deeper into JavaScript and modern frontend frameworks to bring design ideas to life through code.
 
 - 👀 I’m interested in Frontend Development, Design Systems, Creative Engineering, and UI/UX Innovation.
