@@ -1,7 +1,6 @@
 👋 Hey, I'm Ibrahim Olukokun
 
-A Creative Designer Engineer with a passion for building beautiful and user-centric web experiences. 
-With years of experience in UI/UX and Graphics Design, I'm now diving deeper into JavaScript and modern frontend frameworks to bring design ideas to life through code.
+A frontend developer with a design-first mindset and a growing passion for building intuitive, accessible, and responsive web experiences. With 5+ years in UI/UX and visual design, I now bridge the gap between great design and functional code — creating products that not only look good but work beautifully.
 
 - 👀 I’m interested in Frontend Development, Design Systems, Creative Engineering, and UI/UX Innovation.
 - 🌱 I’m currently learning JavaScript deeply, exploring React & Vue, and building fun mini-projects.
